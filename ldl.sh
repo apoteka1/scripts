@@ -1,4 +1,4 @@
-#!/usr/local/bin
+#!/bin/zsh
 
 #latest downloads
 
